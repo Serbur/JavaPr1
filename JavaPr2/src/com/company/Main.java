@@ -8,7 +8,7 @@ public class Main {
         Scanner in = new Scanner(System.in);
         System.out.print("Enter text: ");
         String str = in.nextLine();
-        String reverse = new StringBuffer(str).reverse().toString();
+        String reverse = new StringBuilder(str).reverse().toString();
         System.out.println("Reverse text: " + reverse);
     }
 }

@@ -22,30 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff801662-04be-4ffc-bcc3-9d11c094c6c1" name="Default Changelist" comment="Fcommit">
-      <change afterPath="$PROJECT_DIR$/../JavaPr2/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPr2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPr2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPr2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPr2/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPr2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPr2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPr2/JavaPr2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPr2/out/production/JavaPr2/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPr2/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPr3/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPr3/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPr3/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPr3/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPr3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPr3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPr3/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPr3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPr3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPr3/JavaPr3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPr3/out/production/JavaPr3/com/company/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaPr3/src/com/company/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="ff801662-04be-4ffc-bcc3-9d11c094c6c1" name="Default Changelist" comment="Fcommit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +44,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -135,22 +113,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="838" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605439911010" />
-    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1605211421129">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1605451033101">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605211421129" />
-    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1605211421129">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605451033101" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1605451033101">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605211421129" />
-    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1605211421129">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605451033101" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1605451033101">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605211421129" />
-    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1605211421129">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605451033101" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1605451033101">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605211421129" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605451033101" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1605439728966">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
