@@ -16,7 +16,7 @@ public class Main {
             }
         Arrays.sort(aryNums);
 
-        for(int i=0; i < aryNums.length; i++) {
+        for (int i=0; i < aryNums.length; i++) {
             if (aryNums[i]>=0)
                 System.out.println("num:" + aryNums[i]);
             else {
