@@ -1,23 +1,27 @@
 package com.company;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
 
     public static void main(String[] args) {
+        System.out.print("Enter amount of numbers: ");
         Scanner scan = new Scanner(System.in);
-        int num = scan.nextInt();
-        String line = String.valueOf(num);
-        String longWord = "", shortWord = line;
-            for (String s : line.split(" ")) {
-                if (s.length() > longWord.length()) longWord = s;
-                if (s.length() < shortWord.length()) shortWord = s;
+        int in = scan.nextInt();
+        System.out.print("Enter numbers: ");
+        int aryNums[] = new int[in];
+        for(int j=0; j < in; j++) {
+            aryNums[j] = scan.nextInt();
             }
+        Arrays.sort(aryNums);
 
-            System.out.println("Самое длинное слово: '" + longWord + "'");
-            System.out.println("Длина: " + longWord.length());
-            System.out.println("Самое короткое слово: '" + shortWord + "'");
-            System.out.println("Длина: " + shortWord.length());
-
+        for(int i=0; i < aryNums.length; i++) {
+            if (aryNums[i]>=0)
+                System.out.println("num:" + aryNums[i]);
+            else {
+                System.out.println("Input Error");
+                break;
+            }
         }
-    }
+    }}
