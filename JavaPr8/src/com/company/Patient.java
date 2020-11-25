@@ -94,7 +94,7 @@ private String diagnosis;
 
     @Override
     public String toString() {
-        return "Patient{" +
+        return "Patient " +
                 "id=" + id +
                 ", surname='" + surname + '\'' +
                 ", name='" + name + '\'' +

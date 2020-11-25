@@ -27,7 +27,7 @@ class Hospital {
         }
     } return patList;
     }
-    ArrayList<Patient> getDiapasonList (int diapasonA , int diapasonB){
+        ArrayList<Patient> getDiapasonList ( int diapasonA , int diapasonB){
         ArrayList<Patient> patList = new ArrayList<>();
         for (Patient pat:patientsList){
             if (pat.getMedCard() >= diapasonA && pat.getMedCard() <= diapasonB)
