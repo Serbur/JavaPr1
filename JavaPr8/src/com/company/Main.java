@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class Main {
 
     public static void main(String[] args) {
+
 	Hospital sick = new Hospital("Tanmed");
         sick.addPatientToList( new Patient("Алабаев", "Сергей" , "Иванович" , "Россия" , 897896 , 5012, "геморрой"));
         sick.addPatientToList( new Patient("Крепаткин", "Георгий" , "Николаевич" , "Эстония" , 756931 , 7895, "бронхит"));
@@ -20,7 +21,7 @@ public class Main {
         }
 
         System.out.println("\n Input diapason for medcard: ");
-        ArrayList<Patient> patDiag = sick.getDiapasonList(5012, 5078);
+        ArrayList<Patient> patDiag = sick.getDiapasonList(5000, 7000);
         for (Patient pat : patDiag)
         {
             System.out.println(pat.toString());
